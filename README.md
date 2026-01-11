@@ -148,6 +148,6 @@ If this roadmap saved you time or confusion, please consider:
 ---
 
 <div align="center">
-<p align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D200%26section%3Dfooter%26text%3DHappy%2520Learning%26fontSize%3D50" width="100%"> </p>
+ <p>Made with 💜 by <strong>Varshikaa</strong></p>
 </div>
 
