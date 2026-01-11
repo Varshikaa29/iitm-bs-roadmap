@@ -148,9 +148,6 @@ If this roadmap saved you time or confusion, please consider:
 ---
 
 <div align="center">
-<p>Made with 💜 by <strong>Varshikaa</strong></p>
-<a href="https://www.google.com/search?q=https://github.com/Varshikaa29">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Follow-Varshikaa29-black%3Fstyle%3Dflat-square%26logo%3Dgithub" alt="Follow">
-</a>
+<p align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D200%26section%3Dfooter%26text%3DHappy%2520Learning%26fontSize%3D50" width="100%"> </p>
 </div>
 
